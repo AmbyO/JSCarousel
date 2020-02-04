@@ -1,0 +1,1 @@
+var numberOfImages=6,ico=1,inr=numberOfImages+1,right=document.getElementById("right"),left=document.getElementById("left"),images=document.getElementById("images");right.onclick=function(){pChange(),stopMove()},left.onclick=function(){nChange(),stopMove()};

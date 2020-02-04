@@ -1,0 +1,15 @@
+{
+  "name": "carousel",
+  "version": "1.0.0",
+  "description": "Creating a carousel",
+  "main": "main.js",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "D'NEwb",
+  "license": "ISC"
+}
